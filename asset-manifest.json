@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/route-assignment-13-portfolio/static/css/main.b6b622e3.css",
-    "main.js": "/route-assignment-13-portfolio/static/js/main.a3a20a97.js",
+    "main.js": "/route-assignment-13-portfolio/static/js/main.41d892bd.js",
     "static/media/poert1.png": "/route-assignment-13-portfolio/static/media/poert1.4417330275f78faa31c3.png",
     "static/media/port3.png": "/route-assignment-13-portfolio/static/media/port3.494a4a914b5471b41f3e.png",
     "static/media/port2.png": "/route-assignment-13-portfolio/static/media/port2.6554473016d32b343f02.png",
     "static/media/avataaars.svg": "/route-assignment-13-portfolio/static/media/avataaars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
     "index.html": "/route-assignment-13-portfolio/index.html",
     "main.b6b622e3.css.map": "/route-assignment-13-portfolio/static/css/main.b6b622e3.css.map",
-    "main.a3a20a97.js.map": "/route-assignment-13-portfolio/static/js/main.a3a20a97.js.map"
+    "main.41d892bd.js.map": "/route-assignment-13-portfolio/static/js/main.41d892bd.js.map"
   },
   "entrypoints": [
     "static/css/main.b6b622e3.css",
-    "static/js/main.a3a20a97.js"
+    "static/js/main.41d892bd.js"
   ]
 }
