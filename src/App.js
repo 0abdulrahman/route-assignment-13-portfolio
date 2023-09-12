@@ -6,7 +6,7 @@ import Portfolio from "./Components/Pages/Portfolio";
 import Contact from "./Components/Pages/Contact";
 import "./App.css";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
-
+import "./test.js";
 function App() {
   return (
     <BrowserRouter basename="/route-assignment-13-portfolio">

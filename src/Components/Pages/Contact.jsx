@@ -3,7 +3,8 @@ import Heading from "../ui/Heading";
 function Contact() {
   return (
     <main id="contact" className="container">
-      <Heading color="#2c3e50" heading="CONATCT SECTION" />
+      <Heading color="#2c3e50" heading="CONTACT SECTION" />
+
       <form className="form-floating d-flex flex-column">
         <div className="form-floating mb-3">
           <input type="text" className="form-control" id="name" placeholder="Name" />
